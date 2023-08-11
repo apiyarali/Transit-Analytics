@@ -71,13 +71,14 @@ This CSV file can be imported into any visualization application to visualize th
 
 Here is an example of visualization using Microsoft Excel 3D Map:
 
-!["Heat Map"]("https://github.com/apiyarali/Transit-Analytics/blob/main/HeatMap.png" "Heat Map")
+
+![HeatMap](https://github.com/apiyarali/Transit-Analytics/assets/16005827/e5c7b528-b3fe-479e-9da6-b1ea6c4f5684)
 
 
-https://github.com/apiyarali/Transit-Analytics/assets/16005827/f1624b80-f9c0-4975-868b-0f1a99a463a2
+https://github.com/apiyarali/Transit-Analytics/assets/16005827/b92cdf76-5924-41d7-a09c-3173031410c8
 
 
-!["Heat Graph Map"]("https://github.com/apiyarali/Transit-Analytics/blob/main/HeatGraphMap.png" "Heat Graph Map")
+![Heat Graph Map](https://github.com/apiyarali/Transit-Analytics/assets/16005827/4b3d0cd0-a4ba-4613-aeb0-b9e07420d0ef)
 
 
 https://github.com/apiyarali/Transit-Analytics/assets/16005827/d6441158-f4ff-46ca-b85e-98aa6cf4d88c
