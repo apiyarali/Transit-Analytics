@@ -47,12 +47,14 @@ Full Dataset:
 cd /opt/spark/heat
 
 docker cp [Your Docker ID]:/opt/spark/heat/ .
+
 Example: docker cp 09c5078c2682:/opt/spark/heat/ .
 
 Sample Dataset for quick analysis:
 
 cd /opt/spark/heat/sample
 docker cp [Your Docker ID]:/opt/spark/heat/sample/ .
+
 Example: docker cp 09c5078c2682:/opt/spark/heat/sample/ .
 ```
 
