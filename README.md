@@ -63,3 +63,12 @@ Example: docker cp 09c5078c2682:/opt/spark/heat/sample/ .
 ```
 exit
 ```
+# CSV file
+
+The CSV file should have the following columns: stop_id, stop_name, stop_latitude, and stop_longitude.
+
+This CSV file can be imported into any visualization application to visualize the data.
+
+Here is an example of visualization using Microsoft Excel 3D Map:
+
+!["Heat Map"](https://github.com/apiyarali/Transit-Analytics/blob/main/HeatMap.png "Heat Map")
