@@ -73,4 +73,4 @@ Here is an example of visualization using Microsoft Excel 3D Map:
 
 !["Heat Map"](https://github.com/apiyarali/Transit-Analytics/blob/main/HeatMap.png "Heat Map")
 
-!["Heat Map"]([https://github.com/apiyarali/Transit-Analytics/blob/main/HeatMap.png](https://github.com/apiyarali/Transit-Analytics/blob/main/HeatMap.mp4)https://github.com/apiyarali/Transit-Analytics/blob/main/HeatMap.mp4)
+HeatMap
